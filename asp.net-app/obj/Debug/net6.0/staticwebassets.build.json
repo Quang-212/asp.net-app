@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GsuO1lSZrQSuNYqoaIuVoy2sPQBTMPi+/1uS8Ft9l6o=",
+  "Source": "asp.net-app",
+  "BasePath": "_content/asp.net-app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
